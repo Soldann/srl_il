@@ -2,7 +2,7 @@ defaults:
   # presets do not directly configs the pipeline or the algothm. However it provides necessary information to resolve this config
   - _self_
 
-batch_size: 40
+batch_size: 50
 seed: 43
 debugrun: false
 wandb_cfg:
